@@ -1,17 +1,21 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/Macroni-labs/.github/main/profile/assets/banner.png" alt="Macroni Labs" width="100%">
+<img src="https://raw.githubusercontent.com/Macroni-labs/.github/main/profile/assets/banner.png" width="100%" alt="Macroni Labs">
 
 Small projects. Big ambitions.
 
 Building useful software, thoughtful tools, and experiences worth using.
 
 <br>
-<a href="https://github.com/Macroni-labs/macroni/releases/latest">
-  <img src="https://img.shields.io/badge/GET_MACRONI-Download_Free-FFC01A?style=for-the-badge&labelColor=14110C" alt="Download Macroni">
-</a>
-<img src="https://img.shields.io/badge/version-1.0.0-FFC01A?style=flat-square&labelColor=14110C">
-<img src="https://img.shields.io/badge/license-free-FFC01A?style=flat-square&labelColor=14110C">
-<img src="https://img.shields.io/badge/macOS-Windows-Linux-FFC01A?style=flat-square&labelColor=14110C">
+<div align="center">
+
+<img src="https://img.shields.io/badge/Version-1.0.0-FFC01A?style=flat-square&labelColor=14110C">
+<img src="https://img.shields.io/badge/Price-Free-FFC01A?style=flat-square&labelColor=14110C">
+<img src="https://img.shields.io/badge/macOS-Supported-FFC01A?style=flat-square&labelColor=14110C">
+<img src="https://img.shields.io/badge/Windows-Supported-FFC01A?style=flat-square&labelColor=14110C">
+<img src="https://img.shields.io/badge/Linux-Supported-FFC01A?style=flat-square&labelColor=14110C">
+
+</div>
+
 </div>
 
 ⸻
@@ -62,7 +66,7 @@ Great ideas get better when people build together.
 ⸻
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Macroni-labs/.github/main/profile/assets/macroni.png" alt="Macroni" width="76">
+<img src="https://raw.githubusercontent.com/Macroni-labs/.github/main/profile/assets/macroni.png" width="76" alt="Macroni">
 
 Macroni Labs
 
