@@ -1,77 +1,73 @@
 <div align="center">
+<img src="https://raw.githubusercontent.com/Macroni-labs/.github/main/profile/assets/banner.png" alt="Macroni Labs" width="100%">
 
-<img src="https://raw.githubusercontent.com/Macroni-labs/.github/main/profile/assets/banner.png" alt="Macroni" width="100%">
+Small projects. Big ambitions.
 
-<h3>A small project with a big appetite.</h3>
+Building useful software, thoughtful tools, and experiences worth using.
 
-<p>Free to download. Quick to install.</p>
-
-<a href="#download"><img src="https://img.shields.io/badge/Download-Macroni-FFC01A?style=for-the-badge&labelColor=14110C" alt="Download Macroni"></a>
-
-<img src="https://img.shields.io/badge/version-1.0.0-FFC01A?style=flat-square&labelColor=14110C" alt="Version 1.0.0">
-<img src="https://img.shields.io/badge/price-free-FFC01A?style=flat-square&labelColor=14110C" alt="Free">
-<img src="https://img.shields.io/badge/macOS%20%C2%B7%20Windows%20%C2%B7%20Linux-FFC01A?style=flat-square&labelColor=14110C" alt="macOS, Windows, Linux">
-
+<br>
+<a href="https://github.com/Macroni-labs/macroni/releases/latest">
+  <img src="https://img.shields.io/badge/GET_MACRONI-Download_Free-FFC01A?style=for-the-badge&labelColor=14110C" alt="Download Macroni">
+</a>
+<img src="https://img.shields.io/badge/version-1.0.0-FFC01A?style=flat-square&labelColor=14110C">
+<img src="https://img.shields.io/badge/license-free-FFC01A?style=flat-square&labelColor=14110C">
+<img src="https://img.shields.io/badge/macOS-Windows-Linux-FFC01A?style=flat-square&labelColor=14110C">
 </div>
 
-<br>
+⸻
 
-## Get Macroni
+✦ Introducing Macroni
 
-Choose your system. It takes about a minute to install.
+Software should be useful, accessible, and enjoyable to use.
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>macOS</h3>
-      macOS 12 or later<br>Apple silicon and Intel<br><br>
-      <a href="https://github.com/Macroni-labs/macroni/releases/latest"><b>Download .dmg</b></a>
-    </td>
-    <td align="center" width="33%">
-      <h3>Windows</h3>
-      Windows 10 or later<br>64-bit<br><br>
-      <a href="https://github.com/Macroni-labs/macroni/releases/latest"><b>Download .exe</b></a>
-    </td>
-    <td align="center" width="33%">
-      <h3>Linux</h3>
-      AppImage and .deb<br>x86_64<br><br>
-      <a href="https://github.com/Macroni-labs/macroni/releases/latest"><b>Download .AppImage</b></a>
-    </td>
-  </tr>
-</table>
+Macroni Labs is an independent software initiative focused on building practical applications and tools that solve everyday problems.
 
-<br>
+We believe good software doesn’t need to be complicated.
 
-## What you get
+↓ Download Macroni
 
-| | |
-|---|---|
-| **Quick to start** | Install it, open it, and you are working in under a minute. |
-| **Yours to keep** | Everything stays on your machine. No account needed. |
-| **Always free** | No trials, no limits, no ads. |
+Get started in minutes. Choose your platform and download the latest release.
 
-<br>
+Platform	Requirements	Download
+macOS	macOS 12+ · Apple Silicon & Intel	.dmg Download
+Windows	Windows 10+ · 64-bit	.exe Download
+Linux	x86_64 · AppImage / DEB	Linux Download
 
-## Projects
+✦ What makes it different?
 
-| Project | What it is |
-|---|---|
-| [**macroni**](https://github.com/Macroni-labs/macroni) | The main app. Source code, releases and changelog. |
+Feature	Experience
+Simple	Clean, straightforward, and easy to get started with.
+Private	Your work stays on your machine. No account required.
+Free	No subscriptions, trials, or advertisements.
+Cross-platform	Designed for macOS, Windows, and Linux.
 
-<br>
+⌘ Our Projects
 
-## Get involved
+A growing collection of software built under the Macroni Labs name.
 
-- **Found a bug?** [Open an issue](https://github.com/Macroni-labs/macroni/issues)
-- **Want to help?** Pull requests are welcome
-- **Say hello:** [hello@macroni.example](mailto:hello@macroni.example)
+Project	Description	Status
+Macroni	Our main desktop application.	v1.0.0
 
-<br>
+More projects are on the way.
+
+◈ Build With Us
+
+Great ideas get better when people build together.
+
+* Report a bug — Open an issue
+* Contribute — Submit a pull request and help improve our projects.
+* Explore — Browse our repositories and discover what we’re building.
+* Get in touch — hello@macroni.example
+
+⸻
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/Macroni-labs/.github/main/profile/assets/macroni.png" alt="Macroni" width="76">
 
-<img src="https://raw.githubusercontent.com/Macroni-labs/.github/main/profile/assets/macroni.png" alt="" width="90">
+Macroni Labs
 
-<sub>Thanks for stopping by. &copy; 2026 Macroni Labs</sub>
+Independent thinking. Practical software. Built with purpose.
+
+© 2026 Macroni Labs · Made with curiosity.
 
 </div>
